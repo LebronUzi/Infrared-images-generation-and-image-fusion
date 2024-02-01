@@ -11,7 +11,7 @@
 
 ## Algorithm Explanation
 ### Object detection
-![Process]()
+![Process](result_images/process.png)
 In order to reduce the *loss* function from falling into the local optimum during the training process. We first gradient processed the *loss* function, as follows:
 ### Object recognition
 
