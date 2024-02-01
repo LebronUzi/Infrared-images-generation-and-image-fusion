@@ -1,1 +1,1 @@
-# Infrared-images-generation-and-image-fusion
+# Infrared images generatio and image fusion
