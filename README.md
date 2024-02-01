@@ -1,7 +1,19 @@
 # Infrared images generatio and image fusion
-## Demo
+
 ## Introduction
+
+
+## Demo
+### Object detection
+### Object recognition
+
+
+
 ## Algorithm Explanation
+### Object detection
+![Process]()
+In order to reduce the *loss* function from falling into the local optimum during the training process. We first gradient processed the *loss* function, as follows:
+### Object recognition
 
 ## Instruction
 ### Object detection
